@@ -1,3 +1,9 @@
 server/node_modules
 server/.env
+server/.firebaserc
+server/firebase.json
+server/storage.rules
+server/database.rules.json
+
+
 client/node_modules
